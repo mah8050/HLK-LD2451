@@ -41,7 +41,7 @@ The application is built using **tkinter** for the GUI and **pyserial** for comm
 
 ```bash
 # Clone the repository
-git clone https://your-repo-link.git
+git clone https://github.com/mah8050/HLK-LD2451.git
 cd hlk-ld2451-gui
 
 # Install dependencies
